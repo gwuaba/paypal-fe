@@ -1,3 +1,2 @@
 Application is ready to be deployed to the development enviroment
-development must be reviewed
-by managers
+development must be reviewed by managers
